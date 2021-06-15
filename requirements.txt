@@ -3,4 +3,4 @@ streamlit
 tensorflow
 matplotlib
 imageio
-python3-opencv
+opencv-python-headless
