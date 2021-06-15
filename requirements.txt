@@ -2,3 +2,4 @@ pandas
 streamlit
 tensorflow
 matplotlib
+imageio
