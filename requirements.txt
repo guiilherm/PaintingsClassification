@@ -1,0 +1,8 @@
+pandas
+streamlit
+numpy
+tensorflow
+random
+imageio
+webbrowse
+cv2
